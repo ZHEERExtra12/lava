@@ -1,0 +1,48 @@
+@media (max-width:500px){
+          body{
+                    overflow-x: hidden;
+          }
+          .logo{
+                    font-size: 2rem;
+          }
+          .navbar{
+                    
+                    text-align: center;
+          }
+          .navbar-toggler{
+                    font-size: 0.5rem;
+                    border: 1px solid white;
+                    
+          }
+          .navbar-toggler-icon{
+                    filter: invert(1);
+                    width: 15px;
+                    height: 18px;
+          }
+          .img-home{
+                    margin-top: -5rem;
+                    width: 250px;
+                    height: 250px;
+                    margin-bottom: 10em;
+          }
+          .container4{
+                    margin-left: 6rem;
+          }
+          .home-heading{
+                    margin-top: -19em;
+                    font-size: 22px;
+                    font-weight: 700;
+                    line-height: 30px;       
+          }
+          .pa-home{
+                    margin-right: 2rem;
+          }
+          .home-link{
+                    font-size: 0.5rem;
+          }
+          .btn-home{
+                    margin-left: 0.5rem;
+          }
+          
+
+} 
